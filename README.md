@@ -1,1 +1,5 @@
-# mobile-assesmnet-june-2024
+# mobile-assesmnet-june-2024![Screenshot_20240724_121425](https://github.com/user-attachments/assets/85773a2c-89a7-4b7a-a686-07f34282df78)
+![Screenshot_20240724_121338](https://github.com/user-attachments/assets/f922b4d3-f130-42cc-8be7-9e405ecae556)
+![Screenshot_20240724_123819](https://github.com/user-attachments/assets/3b67dbcf-0fcb-4405-b024-ec3604bd016c)
+![Screenshot_20240724_121654](https://github.com/user-attachments/assets/31b6706f-97bd-4131-abbc-b61469286a57)
+![Screenshot_20240724_121628](https://github.com/user-attachments/assets/432a848b-bbd2-47d9-b761-a2fcdc8a1593)
