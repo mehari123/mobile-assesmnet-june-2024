@@ -1,0 +1,14 @@
+bininyam.developer.com.flutter_assessment.app-core-1.6.0-0 C:\Users\Administrator\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+bininyam.developer.com.flutter_assessment.app-jetified-window-java-1.0.0-beta04-1 C:\Users\Administrator\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+bininyam.developer.com.flutter_assessment.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+bininyam.developer.com.flutter_assessment.app-jetified-window-1.0.0-beta04-3 C:\Users\Administrator\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+bininyam.developer.com.flutter_assessment.app-debug-4 H:\flutter_\Mobile-assessment-June-2024\android\app\src\debug\res
+bininyam.developer.com.flutter_assessment.app-main-5 H:\flutter_\Mobile-assessment-June-2024\android\app\src\main\res
+bininyam.developer.com.flutter_assessment.app-pngs-6 H:\flutter_\Mobile-assessment-June-2024\build\app\generated\res\pngs\debug
+bininyam.developer.com.flutter_assessment.app-resValues-7 H:\flutter_\Mobile-assessment-June-2024\build\app\generated\res\resValues\debug
+bininyam.developer.com.flutter_assessment.app-rs-8 H:\flutter_\Mobile-assessment-June-2024\build\app\generated\res\rs\debug
+bininyam.developer.com.flutter_assessment.app-mergeDebugResources-9 H:\flutter_\Mobile-assessment-June-2024\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+bininyam.developer.com.flutter_assessment.app-mergeDebugResources-10 H:\flutter_\Mobile-assessment-June-2024\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+bininyam.developer.com.flutter_assessment.app-merged_res-11 H:\flutter_\Mobile-assessment-June-2024\build\app\intermediates\merged_res\debug
+bininyam.developer.com.flutter_assessment.app-packaged_res-12 H:\flutter_\Mobile-assessment-June-2024\build\path_provider_android\intermediates\packaged_res\debug
+bininyam.developer.com.flutter_assessment.app-packaged_res-13 H:\flutter_\Mobile-assessment-June-2024\build\sqflite\intermediates\packaged_res\debug
